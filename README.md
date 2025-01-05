@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=monaem22&label=Profile%20views&color=0e75b6&style=flat" alt="monaem22" /> </p>
 
  - :school: I am gratuated from Faculty of Computer science and AI at The Helwan University <br>
-
+- :nerd_face: Always `learning new things`<br>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X9s5xOB6pFlb5TK6u-MvtXri6ashAIlW/view?usp=drive_link](https://drive.google.com/file/d/1X9s5xOB6pFlb5TK6u-MvtXri6ashAIlW/view?usp=drive_link)
 - 🔭 🌱 I’m currently working on enhance new topics and technologies like **nest.JS**
 
