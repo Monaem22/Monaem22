@@ -27,6 +27,8 @@
 </a>
 
 </p>
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -37,4 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monaem22&show_icons=true&locale=en" alt="monaem22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monaem22&" alt="monaem22" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melsayedahmed&" alt="melsayedahmed" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melsayedahmed&show_icons=true&locale=en&layout=compact" alt="melsayedahmed" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melsayedahmed&show_icons=true&locale=en" alt="melsayedahmed" /></p>
+
