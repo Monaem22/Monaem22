@@ -16,14 +16,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mo0n3em_0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0n3em_0sama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manem-osama-513812219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manem-osama-513812219" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16005847/manem-osama?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16005847/manem-osama?tab=profile" height="30" width="40" /></a>
+<a href="https://twitter.com/mo0n3em_0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0n3em_0sama" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manem-osama-513812219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manem-osama-513812219" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16005847/manem-osama?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16005847/manem-osama?tab=profile" height="30" width="40" />
+</a>
 <a href="https://kaggle.com/https://www.kaggle.com/manemosama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/manemosama" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/manem.mando9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manem.mando9" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/man3m_osama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man3m_osama/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/manem.mando9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manem.mando9" height="30" width="40" />
+</a>
+<a href="[https://instagram.com/https://www.instagram.com/man3m_osama/](https://www.instagram.com/man3m_osama/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man3m_osama/" height="30" width="40" />
+</a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/manemosama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/manemosama" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/manemosama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manemosama/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/manemosama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manemosama/" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
