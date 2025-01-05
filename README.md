@@ -10,7 +10,7 @@
 - 🔭 🌱 I’m currently working on enhance new topics and technologies like **nest.JS**
 
 - 📫 How to reach me **manemosama@gmail.com**
-
+<br> <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
  ## 📩 Connect with me 
 <p align="center"> 
  <a href="mailto:manemosama@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
