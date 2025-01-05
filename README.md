@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=monaem22&label=Profile%20views&color=0e75b6&style=flat" alt="monaem22" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mo0n3em_0sama" target="blank"><img src="https://img.shields.io/twitter/follow/mo0n3em_0sama?logo=twitter&style=for-the-badge" alt="mo0n3em_0sama" /></a> </p>
-
  - :school: I am gratuated from Faculty of Computer science and AI at The Helwan University <br>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X9s5xOB6pFlb5TK6u-MvtXri6ashAIlW/view?usp=drive_link](https://drive.google.com/file/d/1X9s5xOB6pFlb5TK6u-MvtXri6ashAIlW/view?usp=drive_link)
@@ -13,22 +11,19 @@
 
 - 📫 How to reach me **manemosama@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mo0n3em_0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0n3em_0sama" height="30" width="40" />
+ ## 📩 Connect with me 
+<p align="center"> 
+ <a href="mailto:manemosama@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+ <a href="https://www.facebook.com/manem.mando9" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
+ <a href="https://www.linkedin.com/in/monaem-osama-513812219/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br> 
+<a href="https://www.instagram.com/man3m_osama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man3m_osama/" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/monaem-osama-513812219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manem-osama-513812219" height="30" width="40" />
+<a href="https://twitter.com/mo0n3em_0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0n3em_0sama" height="30" width="40" />
 </a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16005847/manem-osama?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16005847/manem-osama?tab=profile" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/manem.mando9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manem.mando9" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/man3m_osama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man3m_osama/" height="30" width="40" />
-</a>
-
-</p>
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
-
+</p> 
+ <br> <br> <h3 align="center">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
