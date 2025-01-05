@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monaem22&label=Profile%20views&color=0e75b6&style=flat" alt="monaem22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monaem22" alt="monaem22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mo0n3em_0sama" target="blank"><img src="https://img.shields.io/twitter/follow/mo0n3em_0sama?logo=twitter&style=for-the-badge" alt="mo0n3em_0sama" /></a> </p>
+
+ - :school: I am gratuated from Faculty of Computer science and AI at The Helwan University <br>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X9s5xOB6pFlb5TK6u-MvtXri6ashAIlW/view?usp=drive_link](https://drive.google.com/file/d/1X9s5xOB6pFlb5TK6u-MvtXri6ashAIlW/view?usp=drive_link)
 - 🔭 🌱 I’m currently working on enhance new topics and technologies like **nest.JS**
