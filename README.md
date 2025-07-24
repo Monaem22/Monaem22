@@ -14,11 +14,11 @@
 
  ## 📩 Connect with me 
 <p align="center"> 
- <a href="https://wa.me/201124523477" title="Whats Up"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
- <a href="mailto:manemosama@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
- <a href="https://www.facebook.com/manem.mando9" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
- <a href="https://www.linkedin.com/in/monaem-osama-513812219/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br> 
-<a href="https://www.instagram.com/man3m_osama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man3m_osama/" height="30" width="40" />
+ <a href="https://wa.me/201124523477" title="Whats Up" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+ <a href="mailto:manemosama@gmail.com" title="Gmail" target="_blank"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+ <a href="https://www.facebook.com/manem.mando9" title="Facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
+ <a href="https://www.linkedin.com/in/monaem-osama-513812219/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br> 
+<a href="https://www.instagram.com/man3m_osama/" target="blank" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man3m_osama/" height="30" width="40" />
 </a>
 <a href="https://twitter.com/mo0n3em_0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0n3em_0sama" height="30" width="40" />
 </a>
