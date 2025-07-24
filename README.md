@@ -14,7 +14,7 @@
 
  ## 📩 Connect with me 
 <p align="center"> 
- <a href="https://wa.me/201124523477" title="Whats Up">https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a> 
+ <a href="https://wa.me/201124523477" title="Whats Up"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
  <a href="mailto:manemosama@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
  <a href="https://www.facebook.com/manem.mando9" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
  <a href="https://www.linkedin.com/in/monaem-osama-513812219/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br> 
