@@ -11,6 +11,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X9s5xOB6pFlb5TK6u-MvtXri6ashAIlW/view?usp=drive_link](https://drive.google.com/file/d/1fw6PH310G0RTPDQTWq_EzEHvGg6kZZWj/view?usp=sharing)
 - 🔭 🌱 I’m currently working on enhance new topics and technologies like **nest.JS**
 - 📫 How to reach me **manemosama@gmail.com**
+## See my works on Reality ground:
+* https://opec-training.com
+* https://grad-project-3zvo.onrender.com/
+* https://drive.google.com/file/d/1JohPmlyEVV0_Dq_7TtuLLgTYnOMNU6Cb/view
 
  ## 📩 Connect with me 
 <p align="center"> 
